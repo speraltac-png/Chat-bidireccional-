@@ -1,6 +1,14 @@
 # Chat bidireccional con Python Sockets, Tkinter y Thread
 Este proyecto implementa una sala de chat en tiempo real utilizando la arquitectura Cliente-Servidor. Permite que múltiples usuarios se conecten simultáneamente y se envíen mensajes entre sí mediante una interfaz gráfica amigable.
 
+<img width="1139" height="577" alt="image" src="https://github.com/user-attachments/assets/fc232d9a-5220-4e6f-8013-8c1788cd327e" />
+
+<img width="1139" height="577" alt="image" src="https://github.com/user-attachments/assets/894ffd2e-f838-47e0-82d5-60cd13b0f9fb" />
+
+<img width="1139" height="577" alt="image" src="https://github.com/user-attachments/assets/2450e10d-e829-465d-af2a-0d504e671287" />
+
+
+
 ## Características
 Arquitectura Cliente-Servidor: Un servidor central gestiona las conexiones y distribuye los mensajes.
 
